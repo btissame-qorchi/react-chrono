@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-chrono/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/react-chrono/static/js/main.f4dd255c.chunk.js",
+    "main.js.map": "/react-chrono/static/js/main.f4dd255c.chunk.js.map",
+    "runtime-main.js": "/react-chrono/static/js/runtime-main.892aba7e.js",
+    "runtime-main.js.map": "/react-chrono/static/js/runtime-main.892aba7e.js.map",
+    "static/js/2.eaa78e0e.chunk.js": "/react-chrono/static/js/2.eaa78e0e.chunk.js",
+    "static/js/2.eaa78e0e.chunk.js.map": "/react-chrono/static/js/2.eaa78e0e.chunk.js.map",
+    "static/js/3.7b5e9327.chunk.js": "/react-chrono/static/js/3.7b5e9327.chunk.js",
+    "static/js/3.7b5e9327.chunk.js.map": "/react-chrono/static/js/3.7b5e9327.chunk.js.map",
+    "index.html": "/react-chrono/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/react-chrono/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.eaa78e0e.chunk.js.LICENSE.txt": "/react-chrono/static/js/2.eaa78e0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.892aba7e.js",
+    "static/js/2.eaa78e0e.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.f4dd255c.chunk.js"
+  ]
+}
